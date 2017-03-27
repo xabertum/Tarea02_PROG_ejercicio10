@@ -35,12 +35,13 @@ public class Tarea02_Ejercicio10 {
         System.out.println("byte: bx - by = " + bz);
         
         System.out.println("----- Operaciones con short -----");
-        System.out.println("short: sx * sy = " + (sz) + "- 1" + "= 3");
+        System.out.println("short: sx * sy = " + (sz) + " - 1" + "= 3");
         sx = 32767;
         System.out.println("short: " + sx + "1 = " + (sx + 1));
         
         System.out.println("------ Operaciones con char -----");
         
+        // No entiendo exactamente que operaciones hay que realizar, sorry! 
         
     }
     
