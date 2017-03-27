@@ -42,7 +42,5 @@ public class Tarea02_Ejercicio10 {
         System.out.println("------ Operaciones con char -----");
         
         // No entiendo exactamente que operaciones hay que realizar, sorry! 
-        
     }
-    
 }
