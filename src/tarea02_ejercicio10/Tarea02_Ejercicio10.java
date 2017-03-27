@@ -16,17 +16,16 @@ public class Tarea02_Ejercicio10 {
      */
     public static void main(String[] args) {
         
-        float x, y;
-        int i,j,z;
-        double dx, dz;
-        byte bx, by, bz;
-        short sx, sy, sz;
-        char cx, xy, cz;
+        float x = (float) 4.5; 
+        float y = (float) 3.0;
+        int i = 2,  j = (int) (i * x);
+        double dx = 2.0, dz = dx * y;
+        byte bx = 5, by = 2, bz = (byte) (bx - by);
+        short sx = 5, sy = 2, sz = (short) (sx - sy);
+        char cx = '\u000F', cy = '\u0001';
         
         System.out.println("----- Conversiones entre enteros y coma flotante -----");
-        System.out.println("Producto de int por float: ");
-        
-        
+        System.out.println("Producto de int por float: j = i*x =  " + j );
         
     }
     
